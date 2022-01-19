@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <fragment
+        android:id="@+id/driverLocationFragment"
+        class="com.google.android.gms.maps.SupportMapFragment"
+
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        >
+
+        <Button
+            android:id="@+id/driver_request_accept_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#359c5e"
+            android:padding="8dp"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="Accept"
+            android:textColor="#ffffff"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/driver_request_reject_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FF0000"
+            android:padding="8dp"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="Reject"
+            android:textColor="#ffffff"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/startRideButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#359c5e"
+            android:padding="8dp"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="START RIDE"
+            android:textColor="#ffffff"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/ridingWith"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#359c5e"
+            android:padding="8dp"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="START RIDE"
+            android:textColor="#ffffff"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/finishRideButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#359c5e"
+            android:padding="8dp"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="FINISH RIDE"
+            android:textColor="#ffffff"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/proceedToPaymentButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#359c5e"
+            android:padding="8dp"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="Proceed To Payment"
+            android:textColor="#ffffff"
+            android:textSize="30sp" />
+
+        <EditText
+            android:id="@+id/verificationCodeEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            android:padding="8dp"
+            android:gravity="center_horizontal|center_vertical"
+            android:hint="Enter the code from your passenger"
+            android:textColor="#000000"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/enterCodeButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#359c5e"
+            android:padding="8dp"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="VERIFY"
+            android:textColor="#ffffff"
+            android:textSize="30sp" />
+
+
+
+
+        <!--        <Button-->
+<!--            android:id="@+id/carrequestconfirmbutton"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:background="#359c5e"-->
+
+<!--            android:padding="8dp"-->
+<!--            android:text="Send Request"-->
+<!--            android:textColor="#ffffff"-->
+<!--            android:textSize="30sp" />-->
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+

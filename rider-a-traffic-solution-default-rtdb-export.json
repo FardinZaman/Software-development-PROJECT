@@ -1,0 +1,1209 @@
+{
+  "BusJourney" : {
+    "1625434002310" : {
+      "busID" : 108,
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1625437155955" : {
+      "busID" : 108,
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1625437237657" : {
+      "busID" : 104,
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1625437334856" : {
+      "busID" : 104,
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1625455242659" : {
+      "busID" : 108,
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1625457874861" : {
+      "busID" : 104,
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1625458188605" : {
+      "busID" : 108,
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1625458260092" : {
+      "busID" : 108,
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1625458449357" : {
+      "busID" : 108,
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1625458683363" : {
+      "busID" : 108,
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1625458839515" : {
+      "busID" : 108,
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1625458951211" : {
+      "busID" : 108,
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1625459158589" : {
+      "busID" : 108,
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1625459285515" : {
+      "busID" : 108,
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1625459323324" : {
+      "busID" : 108,
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1625459389426" : {
+      "busID" : 108,
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1625459656521" : {
+      "busID" : 108,
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1625477216965" : {
+      "busID" : 108,
+      "userEmail" : "zulfiqar9726@gmail.com"
+    }
+  },
+  "BusRoute" : {
+    "-MbWjyES5BiNWE6E8T4H" : {
+      "busNo" : "1,2,3",
+      "from" : "Motijheel",
+      "id" : "1",
+      "intermediate" : "Malibag,Shahbag,Farmgate",
+      "to" : "Mirpur"
+    },
+    "-MbWkciy5o3aFijgWf7z" : {
+      "busNo" : "4,5",
+      "from" : "Dhanmondi",
+      "id" : "2",
+      "intermediate" : "Science lab,Bata signal",
+      "to" : "Shahbag"
+    }
+  },
+  "BusTable" : {
+    "-MbZo2UT0lkqeX0kcBqj" : {
+      "busID" : 108,
+      "busNo" : 3,
+      "lat" : 23.8223,
+      "long" : 90.3654
+    },
+    "-MbZo2UdNIKbdNX70uix" : {
+      "busID" : 107,
+      "busNo" : 3,
+      "lat" : 23.7678,
+      "long" : 90.4678
+    },
+    "-MbZo2UhiMRt06xzCryp" : {
+      "busID" : 104,
+      "busNo" : 2,
+      "lat" : 23.7331,
+      "long" : 90.4171
+    },
+    "-MbZo2UsCA0actZPT-xy" : {
+      "busID" : 110,
+      "busNo" : 4,
+      "lat" : 23.5,
+      "long" : 90.5
+    },
+    "-MbZo2UuOkG3bkyX5YMq" : {
+      "busID" : 101,
+      "busNo" : 1,
+      "lat" : 23.733,
+      "long" : 90.3654
+    },
+    "-MbZo2UwzQrX0KmxlDrt" : {
+      "busID" : 113,
+      "busNo" : 5,
+      "lat" : 23.8223,
+      "long" : 90.3654
+    },
+    "-MbZo2UxnAAsimjPwuKj" : {
+      "busID" : 102,
+      "busNo" : 1,
+      "lat" : 23.733,
+      "long" : 90.4172
+    },
+    "-MbZo2V0IjZexgyVhY6d" : {
+      "busID" : 114,
+      "busNo" : 5,
+      "lat" : 23.7126,
+      "long" : 90.5126
+    },
+    "-MbZo2V740-pnlQXjHNI" : {
+      "busID" : 115,
+      "busNo" : 5,
+      "lat" : 23.5,
+      "long" : 90.5
+    },
+    "-MbZo2VDbzWdpa_yN7j_" : {
+      "busID" : 103,
+      "busNo" : 1,
+      "lat" : 23.8223,
+      "long" : 90.3654
+    },
+    "-MbZo2VEMVI-bGS1vDo5" : {
+      "busID" : 109,
+      "busNo" : 3,
+      "lat" : 23.7891,
+      "long" : 90.4891
+    },
+    "-MbZo2VFD2UAsODi06n3" : {
+      "busID" : 111,
+      "busNo" : 4,
+      "lat" : 23.5,
+      "long" : 90.5
+    },
+    "-MbZo2VKL3K3lUv0FOMh" : {
+      "busID" : 106,
+      "busNo" : 2,
+      "lat" : 23.8223,
+      "long" : 90.3654
+    },
+    "-MbZo2VLALbTxMDi9xkD" : {
+      "busID" : 112,
+      "busNo" : 4,
+      "lat" : 23.5,
+      "long" : 90.5
+    },
+    "-MbZo2VQo9m8VOPOaqPm" : {
+      "busID" : 105,
+      "busNo" : 2,
+      "lat" : 23.8223,
+      "long" : 90.3654
+    }
+  },
+  "CoOrdinates" : {
+    "-MbXJxo1tpOGIuBx1zK_" : {
+      "lat" : 23.7561,
+      "location" : "Farmgate",
+      "long" : 90.3872
+    },
+    "-MbXMlSiqQXN1v6EIn_Q" : {
+      "lat" : 23.733,
+      "location" : "Motijheel",
+      "long" : 90.4172
+    },
+    "-MbXNWoAPWwN-giQPvzN" : {
+      "lat" : 23.8223,
+      "location" : "Mirpur",
+      "long" : 90.3654
+    },
+    "-MbXNeyL7QZiKgChGjk2" : {
+      "lat" : 23.7397,
+      "location" : "Shahbag",
+      "long" : 90.3943
+    },
+    "-MbXNqjYZzMMBE24eKOE" : {
+      "lat" : 23.7504,
+      "location" : "Malibag",
+      "long" : 90.4396
+    }
+  },
+  "Discount" : {
+    "-Meox0ae9dB63VUGE-m6" : {
+      "applied" : true,
+      "count" : 0,
+      "max_amount" : 500,
+      "percentage" : 20,
+      "promoCode" : "GOAL",
+      "userEmail" : "zulfiqar9726@gmail.com",
+      "validity" : "2021-07-24 20:52:09"
+    },
+    "-Meox0ah8ER-fzld4W20" : {
+      "applied" : false,
+      "count" : 3,
+      "max_amount" : 500,
+      "percentage" : 90,
+      "promoCode" : "MUJIB",
+      "userEmail" : "zulfiqar9726@gmail.com",
+      "validity" : "2021-07-24 20:52:09"
+    },
+    "-Meox0aygOIC3uDyGflN" : {
+      "applied" : false,
+      "count" : 3,
+      "max_amount" : 800,
+      "percentage" : 1,
+      "promoCode" : "ZIA",
+      "userEmail" : "zulfiqar9726@gmail.com",
+      "validity" : "2021-07-24 20:52:09"
+    },
+    "-Meox0bmLfrspAaB8gPW" : {
+      "applied" : false,
+      "count" : 3,
+      "max_amount" : 800,
+      "percentage" : 30,
+      "promoCode" : "ERSHAD",
+      "userEmail" : "zulfiqar9726@gmail.com",
+      "validity" : "2021-07-24 20:52:09"
+    },
+    "-Meox0bnYvSkQy1o5Yqv" : {
+      "applied" : false,
+      "count" : 3,
+      "max_amount" : 800,
+      "percentage" : 2,
+      "promoCode" : "MAMUNUL",
+      "userEmail" : "zulfiqar9726@gmail.com",
+      "validity" : "2021-07-24 20:52:09"
+    }
+  },
+  "Driver" : {
+    "-Mc51yWiZOpGeO0qoNF4" : {
+      "busy" : false,
+      "driverID" : 4,
+      "lat" : 23.726576666666666,
+      "long" : 90.39266166666667,
+      "name" : "TRUMP",
+      "type" : "car"
+    },
+    "-Mc51yWoYLcHLk8Qr3fT" : {
+      "busy" : false,
+      "driverID" : 2,
+      "lat" : 23.875853333333332,
+      "long" : 90.37954333333333,
+      "name" : "BIDEN",
+      "type" : "car"
+    },
+    "-Mc51yWuf5rNlgtkFU6C" : {
+      "busy" : false,
+      "driverID" : 3,
+      "lat" : 23.72473333333333,
+      "long" : 90.39197833333333,
+      "name" : "MACRON",
+      "type" : "car"
+    },
+    "-Mc51yX4RaBIJ3no0_ZD" : {
+      "busy" : false,
+      "driverID" : 5,
+      "lat" : 23.875853333333332,
+      "long" : 90.37954333333333,
+      "name" : "MODI",
+      "type" : "car"
+    },
+    "-MdDJ6LxoYqyR_1bJTAr" : {
+      "busy" : false,
+      "driverID" : 1,
+      "lat" : 23.875853333333332,
+      "long" : 90.37954333333333,
+      "name" : "BENNETT",
+      "type" : "bike"
+    }
+  },
+  "History" : {
+    "1625417859607" : {
+      "dest" : "Uttara",
+      "driverID" : "1",
+      "driverName" : "Bennett",
+      "driver_rating_user" : 5,
+      "fare" : 21,
+      "finishTime" : "2021-07-04 10:57:37",
+      "source" : "Mohammadpur Bus Stand",
+      "startTime" : "2021-07-04 10:50:54",
+      "type" : "car",
+      "userEmail" : "zulfiqar9726@gmail.com",
+      "userName" : "Zulfiqar",
+      "user_rating_driver" : 1
+    },
+    "1625420404063" : {
+      "dest" : "Uttara",
+      "driverID" : "1",
+      "driverName" : "Bennett",
+      "driver_rating_user" : 4,
+      "fare" : 170,
+      "finishTime" : "2021-07-04 11:39:55",
+      "source" : "Mohammadpur Bus Stand",
+      "startTime" : "2021-07-04 11:39:35",
+      "type" : "bike",
+      "userEmail" : "zulfiqar9726@gmail.com",
+      "userName" : "Zulfiqar",
+      "user_rating_driver" : 5
+    },
+    "1625423465255" : {
+      "dest" : "Uttara",
+      "driverID" : "1",
+      "driverName" : "Bennett",
+      "driver_rating_user" : 5,
+      "fare" : 137.25,
+      "finishTime" : "2021-07-05 00:30:46",
+      "source" : "Azimpur Bus Stand",
+      "startTime" : "2021-07-05 00:30:13",
+      "type" : "bike",
+      "userEmail" : "zulfiqar9726@gmail.com",
+      "userName" : "Zulfiqar",
+      "user_rating_driver" : 4
+    },
+    "1625423789669" : {
+      "dest" : "BUET Teachers' Quarter",
+      "driverID" : "1",
+      "driverName" : "Bennett",
+      "driver_rating_user" : 3.5,
+      "fare" : 211.11,
+      "finishTime" : "2021-07-05 00:36:20",
+      "source" : "Uttara",
+      "startTime" : "2021-07-05 00:35:45",
+      "type" : "car",
+      "userEmail" : "zulfiqar9726@gmail.com",
+      "userName" : "Zulfiqar",
+      "user_rating_driver" : 1.5
+    },
+    "1625428563510" : {
+      "dest" : "Uttara",
+      "driverID" : "1",
+      "driverName" : "Bennett",
+      "driver_rating_user" : 4,
+      "fare" : 20,
+      "finishTime" : "2021-07-05 01:55:41",
+      "source" : "Azimpur Bus Stand",
+      "startTime" : "2021-07-05 01:54:14",
+      "type" : "car",
+      "userEmail" : "zulfiqar9726@gmail.com",
+      "userName" : "Zulfiqar",
+      "user_rating_driver" : 5
+    },
+    "1625429387554" : {
+      "dest" : "Uttara",
+      "driverID" : "5",
+      "driverName" : "Modi",
+      "driver_rating_user" : 5,
+      "fare" : 20,
+      "finishTime" : "2021-07-05 02:09:29",
+      "source" : "BUET Central Road",
+      "startTime" : "2021-07-05 02:08:31",
+      "type" : "car",
+      "userEmail" : "zulfiqar9726@gmail.com",
+      "userName" : "Zulfiqar",
+      "user_rating_driver" : 5
+    },
+    "1625430100674" : {
+      "dest" : "Uttara",
+      "driverID" : "5",
+      "driverName" : "Modi",
+      "driver_rating_user" : 2,
+      "fare" : 20,
+      "finishTime" : "2021-07-05 02:21:28",
+      "source" : "BUET Teachers' Quarter",
+      "startTime" : "2021-07-05 02:21:11",
+      "type" : "bike",
+      "userEmail" : "zulfiqar9726@gmail.com",
+      "userName" : "Zulfiqar",
+      "user_rating_driver" : 5
+    },
+    "1625430598762" : {
+      "dest" : "BUET Teachers' Quarter",
+      "driverID" : "5",
+      "driverName" : "Modi",
+      "driver_rating_user" : 1.5,
+      "fare" : 21,
+      "finishTime" : "2021-07-05 02:29:52",
+      "source" : "Uttara",
+      "startTime" : "2021-07-05 02:29:31",
+      "type" : "car",
+      "userEmail" : "zulfiqar9726@gmail.com",
+      "userName" : "Zulfiqar",
+      "user_rating_driver" : 5
+    },
+    "1625431838224" : {
+      "dest" : "BUET Teachers' Quarter",
+      "driverID" : "5",
+      "driverName" : "Modi",
+      "driver_rating_user" : 3.5,
+      "fare" : 21,
+      "finishTime" : "2021-07-05 02:50:24",
+      "source" : "Uttara",
+      "startTime" : "2021-07-05 02:49:38",
+      "type" : "bike",
+      "userEmail" : "zulfiqar9726@gmail.com",
+      "userName" : "Zulfiqar",
+      "user_rating_driver" : 2.5
+    },
+    "1625455053728" : {
+      "dest" : "Uttara",
+      "driverID" : "5",
+      "driverName" : "Modi",
+      "driver_rating_user" : 4.5,
+      "fare" : 20,
+      "finishTime" : "2021-07-05 09:17:04",
+      "source" : "BUET Teachers' Quarter",
+      "startTime" : "2021-07-05 09:16:00",
+      "type" : "car",
+      "userEmail" : "zulfiqar9726@gmail.com",
+      "userName" : "Zulfiqar",
+      "user_rating_driver" : 4
+    },
+    "1625456058701" : {
+      "dest" : "Bangladesh University of Engineering and Technology (BUET)",
+      "driverID" : "5",
+      "driverName" : "Modi",
+      "driver_rating_user" : 4.5,
+      "fare" : 719,
+      "finishTime" : "2021-07-05 09:34:08",
+      "source" : "Uttara",
+      "startTime" : "2021-07-05 09:33:41",
+      "type" : "car",
+      "userEmail" : "zulfiqar9726@gmail.com",
+      "userName" : "Zulfiqar",
+      "user_rating_driver" : 3
+    },
+    "1625477004401" : {
+      "dest" : "Uttara",
+      "driverID" : "5",
+      "driverName" : "Modi",
+      "driver_rating_user" : 4,
+      "fare" : 710,
+      "finishTime" : "2021-07-05 15:23:03",
+      "source" : "Bangladesh University of Engineering and Technology (BUET)",
+      "startTime" : "2021-07-05 15:22:00",
+      "type" : "bike",
+      "userEmail" : "zulfiqar9726@gmail.com",
+      "userName" : "Zulfiqar",
+      "user_rating_driver" : 4.5
+    },
+    "1626409790341" : {
+      "dest" : "Uttara",
+      "driverID" : "2",
+      "driverName" : "Biden",
+      "driver_rating_user" : 3.5,
+      "fare" : 670,
+      "finishTime" : "2021-07-16 10:29:47",
+      "source" : "Mohammadpur Bus Stand",
+      "startTime" : "2021-07-16 10:29:29",
+      "type" : "car",
+      "userEmail" : "zulfiqar9726@gmail.com",
+      "userName" : "Zulfiqar",
+      "user_rating_driver" : 5
+    },
+    "1626518727753" : {
+      "dest" : "Uttara",
+      "driverID" : "1",
+      "driverName" : "Bennett",
+      "driver_rating_user" : 5,
+      "fare" : 361,
+      "finishTime" : "2021-07-17 16:45:21",
+      "source" : "Mohammadpur Bus Stand",
+      "startTime" : "2021-07-17 16:44:59",
+      "type" : "bike",
+      "userEmail" : "zulfiqar9726@gmail.com",
+      "userName" : "Zulfiqar",
+      "user_rating_driver" : 5
+    },
+    "1626519114219" : {
+      "dest" : "BUET Teachers' Quarter",
+      "driverID" : "1",
+      "driverName" : "Bennett",
+      "driver_rating_user" : 5,
+      "fare" : 379,
+      "finishTime" : "2021-07-17 16:51:53",
+      "source" : "Uttara",
+      "startTime" : "2021-07-17 16:51:37",
+      "type" : "bike",
+      "userEmail" : "zulfiqar9726@gmail.com",
+      "userName" : "Zulfiqar",
+      "user_rating_driver" : 5
+    },
+    "1626520154678" : {
+      "dest" : "Uttara",
+      "driverID" : "1",
+      "driverName" : "Bennett",
+      "driver_rating_user" : 4,
+      "fare" : 388,
+      "finishTime" : "2021-07-17 17:09:13",
+      "source" : "BUET Teachers' Quarter",
+      "startTime" : "2021-07-17 17:08:52",
+      "type" : "bike",
+      "userEmail" : "zulfiqar9726@gmail.com",
+      "userName" : "Zulfiqar",
+      "user_rating_driver" : 5
+    },
+    "1626522195697" : {
+      "dest" : "BUET Teachers' Quarter",
+      "driverID" : "1",
+      "driverName" : "Bennett",
+      "driver_rating_user" : 5,
+      "fare" : 359,
+      "finishTime" : "2021-07-17 17:43:11",
+      "source" : "Uttara",
+      "startTime" : "2021-07-17 17:42:51",
+      "type" : "bike",
+      "userEmail" : "zulfiqar9726@gmail.com",
+      "userName" : "Zulfiqar",
+      "user_rating_driver" : 5
+    },
+    "1626524156689" : {
+      "dest" : "BUET Teachers' Quarter",
+      "driverID" : "1",
+      "driverName" : "Bennett",
+      "driver_rating_user" : 2,
+      "fare" : 380,
+      "finishTime" : "2021-07-17 18:15:46",
+      "source" : "Uttara",
+      "startTime" : "2021-07-17 18:15:24",
+      "type" : "bike",
+      "userEmail" : "zulfiqar9726@gmail.com",
+      "userName" : "Zulfiqar",
+      "user_rating_driver" : 5
+    },
+    "1626524584469" : {
+      "dest" : "Mohammadpur Bus Stand",
+      "driverID" : "1",
+      "driverName" : "Bennett",
+      "driver_rating_user" : 3.5,
+      "fare" : 130,
+      "finishTime" : "2021-07-17 18:22:58",
+      "source" : "BUET Teachers' Quarter",
+      "startTime" : "2021-07-17 18:22:26",
+      "type" : "bike",
+      "userEmail" : "zulfiqar9726@gmail.com",
+      "userName" : "Zulfiqar",
+      "user_rating_driver" : 2.5
+    },
+    "1626525802959" : {
+      "dest" : "Uttara",
+      "driverID" : "1",
+      "driverName" : "BENNETT",
+      "driver_rating_user" : 2.5,
+      "fare" : 361,
+      "finishTime" : "2021-07-17 18:43:22",
+      "source" : "Mohammadpur Bus Stand",
+      "startTime" : "2021-07-17 18:42:52",
+      "type" : "bike",
+      "userEmail" : "zulfiqar9726@gmail.com",
+      "userName" : "Zulfiqar",
+      "user_rating_driver" : 2.5
+    },
+    "1626526094952" : {
+      "dest" : "Dhanmondi",
+      "driverID" : "1",
+      "driverName" : "BENNETT",
+      "driver_rating_user" : 1,
+      "fare" : 368,
+      "finishTime" : "2021-07-17 18:48:06",
+      "source" : "Uttara",
+      "startTime" : "2021-07-17 18:47:42",
+      "type" : "bike",
+      "userEmail" : "zulfiqar9726@gmail.com",
+      "userName" : "Zulfiqar",
+      "user_rating_driver" : 1
+    },
+    "1626552388331" : {
+      "dest" : "Mohammadpur Bus Stand",
+      "driverID" : "1",
+      "driverName" : "BENNETT",
+      "driver_rating_user" : 3.5,
+      "fare" : 344,
+      "finishTime" : "2021-07-18 02:06:26",
+      "source" : "Uttara",
+      "startTime" : "2021-07-18 02:06:08",
+      "type" : "bike",
+      "userEmail" : "zulfiqar9726@gmail.com",
+      "userName" : "Zulfiqar",
+      "user_rating_driver" : 4
+    },
+    "1626553342640" : {
+      "dest" : "Uttara",
+      "driverID" : "1",
+      "driverName" : "BENNETT",
+      "driver_rating_user" : 4.5,
+      "fare" : 340,
+      "finishTime" : "2021-07-18 02:22:21",
+      "source" : "Mohammadpur Bus Stand",
+      "startTime" : "2021-07-18 02:21:31",
+      "type" : "bike",
+      "userEmail" : "zulfiqar9726@gmail.com",
+      "userName" : "Zulfiqar",
+      "user_rating_driver" : 4
+    },
+    "1626554702990" : {
+      "dest" : "Uttara",
+      "driverID" : "1",
+      "driverName" : "BENNETT",
+      "driver_rating_user" : 3.5,
+      "fare" : 272,
+      "finishTime" : "2021-07-18 02:44:53",
+      "source" : "Mohammadpur Bus Stand",
+      "startTime" : "2021-07-18 02:44:27",
+      "type" : "bike",
+      "userEmail" : "zulfiqar9726@gmail.com",
+      "userName" : "Zulfiqar",
+      "user_rating_driver" : 4
+    }
+  },
+  "Request" : {
+    "1625380957303" : {
+      "accepted_by" : "1",
+      "dest" : "Azimpur Bus Stand",
+      "destLat" : 23.7271183,
+      "destLong" : 90.3861432,
+      "done" : true,
+      "fare" : 0,
+      "finished" : true,
+      "pending" : false,
+      "source" : "Gulshan 1",
+      "sourceLat" : 23.7820624,
+      "sourceLong" : 90.4160527,
+      "started" : true,
+      "type" : "bike",
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1625405503684" : {
+      "accepted_by" : "1",
+      "dest" : "Mohammadpur",
+      "destLat" : 23.7661639,
+      "destLong" : 90.3588734,
+      "done" : true,
+      "fare" : 0,
+      "finished" : true,
+      "pending" : false,
+      "source" : "Bangladesh University of Engineering and Technology (BUET)",
+      "sourceLat" : 23.7265768,
+      "sourceLong" : 90.3926623,
+      "started" : true,
+      "type" : "bike",
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1625406865881" : {
+      "accepted_by" : "1",
+      "dest" : "BUET Central Road",
+      "destLat" : 23.7255473,
+      "destLong" : 90.3919042,
+      "done" : true,
+      "fare" : 27,
+      "finished" : true,
+      "pending" : false,
+      "source" : "Mohammadpur Bus Stand",
+      "sourceLat" : 23.7570632,
+      "sourceLong" : 90.3613321,
+      "started" : true,
+      "type" : "bike",
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1625413598828" : {
+      "accepted_by" : "1",
+      "dest" : "Uttara",
+      "destLat" : 23.8758547,
+      "destLong" : 90.3795438,
+      "done" : true,
+      "fare" : 0,
+      "finished" : true,
+      "pending" : false,
+      "source" : "Azimpur Bus Stand",
+      "sourceLat" : 23.7271183,
+      "sourceLong" : 90.3861432,
+      "started" : true,
+      "type" : "bike",
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1625414337882" : {
+      "accepted_by" : "1",
+      "dest" : "BUET Teachers' Quarter",
+      "destLat" : 23.723089,
+      "destLong" : 90.392569,
+      "done" : true,
+      "fare" : 0,
+      "finished" : true,
+      "pending" : false,
+      "source" : "Uttara",
+      "sourceLat" : 23.8758547,
+      "sourceLong" : 90.3795438,
+      "started" : true,
+      "type" : "bike",
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1625414762369" : {
+      "accepted_by" : "1",
+      "dest" : "Gulshan 1",
+      "destLat" : 23.7820624,
+      "destLong" : 90.4160527,
+      "done" : true,
+      "fare" : 0,
+      "finished" : true,
+      "pending" : false,
+      "source" : "BUET Central Road",
+      "sourceLat" : 23.7255473,
+      "sourceLong" : 90.3919042,
+      "started" : true,
+      "type" : "bike",
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1625417359705" : {
+      "accepted_by" : "1",
+      "dest" : "Uttara",
+      "destLat" : 23.8758547,
+      "destLong" : 90.3795438,
+      "done" : true,
+      "fare" : 170,
+      "finished" : true,
+      "pending" : false,
+      "source" : "Mohammadpur Bus Stand",
+      "sourceLat" : 23.7570632,
+      "sourceLong" : 90.3613321,
+      "started" : true,
+      "type" : "bike",
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1625423318827" : {
+      "accepted_by" : "1",
+      "dest" : "Uttara",
+      "destLat" : 23.8758547,
+      "destLong" : 90.3795438,
+      "done" : true,
+      "fare" : 0,
+      "finished" : true,
+      "pending" : false,
+      "source" : "Azimpur Bus Stand",
+      "sourceLat" : 23.7271183,
+      "sourceLong" : 90.3861432,
+      "started" : true,
+      "type" : "bike",
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1625428158698" : {
+      "accepted_by" : "1",
+      "dest" : "Uttara",
+      "destLat" : 23.8758547,
+      "destLong" : 90.3795438,
+      "done" : true,
+      "fare" : 20,
+      "finished" : true,
+      "pending" : false,
+      "source" : "Azimpur Bus Stand",
+      "sourceLat" : 23.7271183,
+      "sourceLong" : 90.3861432,
+      "started" : true,
+      "type" : "bike",
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1625429200864" : {
+      "accepted_by" : "5",
+      "dest" : "Uttara",
+      "destLat" : 23.8758547,
+      "destLong" : 90.3795438,
+      "done" : true,
+      "fare" : 20,
+      "finished" : true,
+      "pending" : false,
+      "source" : "BUET Central Road",
+      "sourceLat" : 23.7255473,
+      "sourceLong" : 90.3919042,
+      "started" : true,
+      "type" : "car",
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1625429978895" : {
+      "accepted_by" : "5",
+      "dest" : "Uttara",
+      "destLat" : 23.8758547,
+      "destLong" : 90.3795438,
+      "done" : true,
+      "fare" : 20,
+      "finished" : true,
+      "pending" : false,
+      "source" : "BUET Teachers' Quarter",
+      "sourceLat" : 23.723089,
+      "sourceLong" : 90.392569,
+      "started" : true,
+      "type" : "car",
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1625430419870" : {
+      "accepted_by" : "5",
+      "dest" : "BUET Teachers' Quarter",
+      "destLat" : 23.723089,
+      "destLong" : 90.392569,
+      "done" : true,
+      "fare" : 21,
+      "finished" : true,
+      "pending" : false,
+      "source" : "Uttara",
+      "sourceLat" : 23.8758547,
+      "sourceLong" : 90.3795438,
+      "started" : true,
+      "type" : "car",
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1625431705044" : {
+      "accepted_by" : "5",
+      "dest" : "BUET Teachers' Quarter",
+      "destLat" : 23.723089,
+      "destLong" : 90.392569,
+      "done" : true,
+      "fare" : 21,
+      "finished" : true,
+      "pending" : false,
+      "source" : "Uttara",
+      "sourceLat" : 23.8758547,
+      "sourceLong" : 90.3795438,
+      "started" : true,
+      "type" : "car",
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1625454849627" : {
+      "accepted_by" : "5",
+      "dest" : "Uttara",
+      "destLat" : 23.8758547,
+      "destLong" : 90.3795438,
+      "done" : true,
+      "fare" : 20,
+      "finished" : true,
+      "pending" : false,
+      "source" : "BUET Teachers' Quarter",
+      "sourceLat" : 23.723089,
+      "sourceLong" : 90.392569,
+      "started" : true,
+      "type" : "car",
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1625455975765" : {
+      "accepted_by" : "5",
+      "dest" : "Bangladesh University of Engineering and Technology (BUET)",
+      "destLat" : 23.7265768,
+      "destLong" : 90.3926623,
+      "done" : true,
+      "fare" : 719,
+      "finished" : true,
+      "pending" : false,
+      "source" : "Uttara",
+      "sourceLat" : 23.8758547,
+      "sourceLong" : 90.3795438,
+      "started" : true,
+      "type" : "car",
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1625476718532" : {
+      "accepted_by" : "5",
+      "dest" : "Uttara",
+      "destLat" : 23.8758547,
+      "destLong" : 90.3795438,
+      "done" : true,
+      "fare" : 710,
+      "finished" : true,
+      "pending" : false,
+      "source" : "Bangladesh University of Engineering and Technology (BUET)",
+      "sourceLat" : 23.7265768,
+      "sourceLong" : 90.3926623,
+      "started" : true,
+      "type" : "car",
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1626409644402" : {
+      "accepted_by" : "2",
+      "dest" : "Uttara",
+      "destLat" : 23.8758547,
+      "destLong" : 90.3795438,
+      "done" : true,
+      "fare" : 670,
+      "finished" : true,
+      "pending" : false,
+      "source" : "Mohammadpur Bus Stand",
+      "sourceLat" : 23.7570632,
+      "sourceLong" : 90.3613321,
+      "started" : true,
+      "type" : "car",
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1626518999768" : {
+      "accepted_by" : "1",
+      "dest" : "BUET Teachers' Quarter",
+      "destLat" : 23.723089,
+      "destLong" : 90.392569,
+      "done" : true,
+      "fare" : 379,
+      "finished" : true,
+      "pending" : false,
+      "source" : "Uttara",
+      "sourceLat" : 23.8758547,
+      "sourceLong" : 90.3795438,
+      "started" : true,
+      "type" : "bike",
+      "uniqueCode" : 12285,
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1626520018299" : {
+      "accepted_by" : "1",
+      "dest" : "Uttara",
+      "destLat" : 23.8758547,
+      "destLong" : 90.3795438,
+      "done" : true,
+      "fare" : 388,
+      "finished" : true,
+      "pending" : false,
+      "source" : "BUET Teachers' Quarter",
+      "sourceLat" : 23.723089,
+      "sourceLong" : 90.392569,
+      "started" : true,
+      "type" : "bike",
+      "uniqueCode" : 10703,
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1626521208010" : {
+      "accepted_by" : "1",
+      "dest" : "BUET Teachers' Quarter",
+      "destLat" : 23.723089,
+      "destLong" : 90.392569,
+      "done" : true,
+      "fare" : 359,
+      "finished" : true,
+      "pending" : false,
+      "source" : "Uttara",
+      "sourceLat" : 23.8758547,
+      "sourceLong" : 90.3795438,
+      "started" : true,
+      "type" : "bike",
+      "uniqueCode" : 27456,
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1626523976593" : {
+      "accepted_by" : "1",
+      "dest" : "BUET Teachers' Quarter",
+      "destLat" : 23.723089,
+      "destLong" : 90.392569,
+      "done" : true,
+      "fare" : 380,
+      "finished" : true,
+      "pending" : false,
+      "source" : "Uttara",
+      "sourceLat" : 23.8758547,
+      "sourceLong" : 90.3795438,
+      "started" : true,
+      "type" : "bike",
+      "uniqueCode" : 10517,
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1626524470393" : {
+      "accepted_by" : "1",
+      "dest" : "Mohammadpur Bus Stand",
+      "destLat" : 23.7570632,
+      "destLong" : 90.3613321,
+      "done" : true,
+      "fare" : 130,
+      "finished" : true,
+      "pending" : false,
+      "source" : "BUET Teachers' Quarter",
+      "sourceLat" : 23.723089,
+      "sourceLong" : 90.392569,
+      "started" : true,
+      "type" : "bike",
+      "uniqueCode" : 19250,
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1626525688787" : {
+      "accepted_by" : "1",
+      "dest" : "Uttara",
+      "destLat" : 23.8758547,
+      "destLong" : 90.3795438,
+      "done" : true,
+      "fare" : 361,
+      "finished" : true,
+      "pending" : false,
+      "source" : "Mohammadpur Bus Stand",
+      "sourceLat" : 23.7570632,
+      "sourceLong" : 90.3613321,
+      "started" : true,
+      "type" : "bike",
+      "uniqueCode" : 12508,
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1626525950563" : {
+      "accepted_by" : "1",
+      "dest" : "Dhanmondi",
+      "destLat" : 23.7461495,
+      "destLong" : 90.3742307,
+      "done" : true,
+      "fare" : 368,
+      "finished" : true,
+      "pending" : false,
+      "source" : "Uttara",
+      "sourceLat" : 23.8758547,
+      "sourceLong" : 90.3795438,
+      "started" : true,
+      "type" : "bike",
+      "uniqueCode" : 12249,
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1626552155859" : {
+      "accepted_by" : "1",
+      "dest" : "Mohammadpur Bus Stand",
+      "destLat" : 23.7570632,
+      "destLong" : 90.3613321,
+      "discount_max" : 0,
+      "discount_percentage" : 0,
+      "done" : true,
+      "fare" : 344,
+      "finished" : true,
+      "pending" : false,
+      "source" : "Uttara",
+      "sourceLat" : 23.8758547,
+      "sourceLong" : 90.3795438,
+      "started" : true,
+      "type" : "bike",
+      "uniqueCode" : 17034,
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1626553194051" : {
+      "accepted_by" : "1",
+      "dest" : "Uttara",
+      "destLat" : 23.8758547,
+      "destLong" : 90.3795438,
+      "discount_max" : 0,
+      "discount_percentage" : 0,
+      "done" : true,
+      "fare" : 340,
+      "finished" : true,
+      "pending" : false,
+      "source" : "Mohammadpur Bus Stand",
+      "sourceLat" : 23.7570632,
+      "sourceLong" : 90.3613321,
+      "started" : true,
+      "type" : "bike",
+      "uniqueCode" : 22280,
+      "userEmail" : "zulfiqar9726@gmail.com"
+    },
+    "1626554509817" : {
+      "accepted_by" : "1",
+      "dest" : "Uttara",
+      "destLat" : 23.8758547,
+      "destLong" : 90.3795438,
+      "discount_max" : 500,
+      "discount_percentage" : 20,
+      "done" : true,
+      "fare" : 272,
+      "finished" : true,
+      "pending" : false,
+      "source" : "Mohammadpur Bus Stand",
+      "sourceLat" : 23.7570632,
+      "sourceLong" : 90.3613321,
+      "started" : true,
+      "type" : "bike",
+      "uniqueCode" : 28676,
+      "userEmail" : "zulfiqar9726@gmail.com"
+    }
+  },
+  "Thana" : {
+    "Gulshan" : {
+      "Lat" : 23.7917,
+      "Long" : 90.4167,
+      "PhoneNumber" : "+8801990428042"
+    },
+    "Lalbag" : {
+      "Lat" : 23.718291,
+      "Long" : 90.388298,
+      "PhoneNumber" : "++8801990428042"
+    },
+    "Mirpur" : {
+      "Lat" : 23.804386,
+      "Long" : 90.362946,
+      "PhoneNumber" : "+8801990428042"
+    },
+    "Motijheel" : {
+      "Lat" : 23.730302,
+      "Long" : 90.415138,
+      "PhoneNumber" : "+8801731920290"
+    }
+  },
+  "fare" : {
+    "-MbXQqW_GtfEnvErS-Wn" : {
+      "fare" : 10,
+      "location1" : "Shahbag",
+      "location2" : "Farmgate"
+    },
+    "-MbXQqWwY29oTvLpwUWr" : {
+      "fare" : 40,
+      "location1" : "Motijheel",
+      "location2" : "Mirpur"
+    },
+    "-MbXQqY3p5ukwUqkUPEU" : {
+      "fare" : 10,
+      "location1" : "Farmgate",
+      "location2" : "Malibag"
+    },
+    "-MbXQqaP1ud6KZgB1fTA" : {
+      "fare" : 10,
+      "location1" : "Motijheel",
+      "location2" : "Shahbag"
+    },
+    "-MbXQqal9i99Er9YvHfz" : {
+      "fare" : 20,
+      "location1" : "Shahbag",
+      "location2" : "Malibag"
+    },
+    "-MbXQqbE3AYtgb_1XULO" : {
+      "fare" : 30,
+      "location1" : "Motijheel",
+      "location2" : "Malibag"
+    },
+    "-MbXQqbhojoTLeC0vobk" : {
+      "fare" : 20,
+      "location1" : "Motijheel",
+      "location2" : "Farmgate"
+    },
+    "-MbXQqbrWhozg0gTq6sK" : {
+      "fare" : 30,
+      "location1" : "Shahbag",
+      "location2" : "Mirpur"
+    },
+    "-MbXQqeK4ub2SoE1xV1B" : {
+      "fare" : 10,
+      "location1" : "Malibag",
+      "location2" : "Mirpur"
+    },
+    "-MbXQqg6mHtFE-3PdXAf" : {
+      "fare" : 20,
+      "location1" : "Farmgate",
+      "location2" : "Mirpur"
+    },
+    "-MbXSE7dKQUXeXfAyXtc" : {
+      "fare" : 10,
+      "location1" : "Science lab",
+      "location2" : "Bata signal"
+    },
+    "-MbXSE7goNRyNEqPjlst" : {
+      "fare" : 20,
+      "location1" : "Science lab",
+      "location2" : "Shahbag"
+    },
+    "-MbXSE7vhkZpIrKTi6xU" : {
+      "fare" : 10,
+      "location1" : "Dhanmondi",
+      "location2" : "Science lab"
+    },
+    "-MbXSE89gtUIT4IgLxO4" : {
+      "fare" : 10,
+      "location1" : "Bata signal",
+      "location2" : "Shahbag"
+    },
+    "-MbXSE8A9l4dMX8dUAT-" : {
+      "fare" : 20,
+      "location1" : "Dhanmondi",
+      "location2" : "Bata signal"
+    },
+    "-MbXSEGhCChglXVFYT5F" : {
+      "fare" : 30,
+      "location1" : "Dhanmondi",
+      "location2" : "Shahbag"
+    }
+  },
+  "users" : {
+    "-MbSaw_blF0gYOdhuMYm" : {
+      "email" : "aaatowsif16@gmail.com",
+      "name" : "Towsif Abdullah",
+      "phone_number" : "+8801521419597"
+    },
+    "-Mb_lFSA6DSECI6fmJiq" : {
+      "email" : "1605020@ugrad.cse.buet.ac.bd",
+      "name" : "Abdullah",
+      "phone_number" : "+8801770270798"
+    },
+    "-MbqaJYdOgLfa_lm08cf" : {
+      "email" : "zulfiqar9726@gmail.com",
+      "name" : "Zulfiqar",
+      "phone_number" : "+8801919214111"
+    }
+  }
+}
